@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color: #DDDDDD;
+    color: #30475E;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    padding-top: 50px;
+}
+
+.player1{
+    display: inline-block;
+    margin:100px;
+}
+.player2{
+    display:inline-block;
+    margin:100px;
+}
+#imgd1{
+    height:200px;
+    width:200px;
+}
+#imgd2{
+    height:200px;
+    width:200px;
+}
+.btn {
+    border-style: none;
+    background: #082032;
+    background-image: -webkit-linear-gradient(top, #082032, #334756);
+    background-image: -moz-linear-gradient(top, #082032, #334756);
+    background-image: -ms-linear-gradient(top, #082032, #334756);
+    background-image: -o-linear-gradient(top, #082032, #334756);
+    background-image: linear-gradient(to bottom, #082032, #334756);
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    border-radius: 16px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 50px 10px 50px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #787A91;
+    background-image: -webkit-linear-gradient(top, #787A91, #EEEEEE);
+    background-image: -moz-linear-gradient(top, #787A91, #EEEEEE);
+    background-image: -ms-linear-gradient(top, #787A91, #EEEEEE);
+    background-image: -o-linear-gradient(top, #787A91, #EEEEEE);
+    background-image: linear-gradient(to bottom, #787A91, #EEEEEE);
+    text-decoration: none;
+  }
+  
